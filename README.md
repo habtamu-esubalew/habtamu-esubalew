@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Habtamu Esubalew!
 
-<!--
-**habtamu-esubalew/habtamu-esubalew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** specializing in **React.js** & **ASP.NET API**. I enjoy building scalable web applications and optimizing backend performance.
 
-Here are some ideas to get you started:
+🔭 **Current Projects:**  
+- 🚕 Building a **Taxi Service App** in Addis Ababa  
+- ⚡ Optimizing **SQL queries** with indexing  
+- 🎨 Exploring **Vue.js** for upcoming projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/habtamu-esubalew)  
+
+
+
+![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habtamu-esubalew&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu-esubalew&layout=compact)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=habtamu-esubalew&color=blue)
+
+
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=repo-name)](https://github.com/habtamu-esubalew/repo-name)
