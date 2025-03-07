@@ -16,7 +16,7 @@ I'm a **Full-Stack Developer** specializing in **React.js** & **ASP.NET API**. I
 ![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habtamu-esubalew&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu-esubalew&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu-esubalew&count_private=true&theme=radical&hide=html,css)
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=habtamu-esubalew&color=blue)
