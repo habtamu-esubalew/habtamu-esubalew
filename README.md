@@ -43,13 +43,21 @@
 ---
 ## 📌 Featured Projects
 
-[![Tender Management System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Tender-Mgt-System&theme=radical)](https://github.com/habtamu-esubalew/Tender-Mgt-System)
+### 🚀 Tender Management System
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20MongoDB%20%7C%20Redis-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TailwindCSS-green)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
-[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Tender-Admin-Frontend&theme=radical)](https://github.com/habtamu-esubalew/Tender-Admin-Frontend)
+### 🚖 Sholla - Taxi Dispatch System
+![Backend](https://img.shields.io/badge/Backend-Express%20%7C%20MongoDB%20%7C%20Redis-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Mapbox-green)
+![Mobile](https://img.shields.io/badge/Driver_App-ReactNative-lightgrey)
+![Status](https://img.shields.io/badge/Status-Development-yellow)
 
-[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Sholla-Backend&theme=radical)](https://github.com/habtamu-esubalew/Sholla-Backend)
-
-[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Amharic_Typing_System&theme=radical)](https://github.com/habtamu-esubalew/Amharic_Typing_System)
+### ⌨️ Amharic Typing System
+![Tech](https://img.shields.io/badge/Platform-Windows%20Desktop-blue)
+![Lang](https://img.shields.io/badge/Language-C%23%20%7C%20WPF-lightgrey)
+![Status](https://img.shields.io/badge/Status-Prototype-red)
 
 
 
@@ -59,9 +67,9 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/habtamuesubalew)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/habtamu-esubalew)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:habtishesubalew@gmail.com)
 
 ---
 
