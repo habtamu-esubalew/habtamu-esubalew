@@ -41,12 +41,17 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habtamu-esubalew&count_private=true&theme=radical&hide=html,css)
 
 ---
-
 ## 📌 Featured Projects
 
-[![Tender Management System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=tender-management-backend&theme=radical)](https://github.com/habtamu-esubalew/tender-management-backend)
+[![Tender Management System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Tender-Mgt-System&theme=radical)](https://github.com/habtamu-esubalew/Tender-Mgt-System)
 
-[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=taxi-service-platform&theme=radical)](https://github.com/habtamu-esubalew/taxi-service-platform)
+[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Tender-Admin-Frontend&theme=radical)](https://github.com/habtamu-esubalew/Tender-Admin-Frontend)
+
+[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Sholla-Backend&theme=radical)](https://github.com/habtamu-esubalew/Sholla-Backend)
+
+[![Taxi Dispatch System](https://github-readme-stats.vercel.app/api/pin/?username=habtamu-esubalew&repo=Amharic_Typing_System&theme=radical)](https://github.com/habtamu-esubalew/Amharic_Typing_System)
+
+
 
 > *(You can manually pin these or similar projects from your GitHub profile settings)*
 
