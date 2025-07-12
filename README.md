@@ -61,7 +61,7 @@
 
 
 
-> *(You can manually pin these or similar projects from your GitHub profile settings)*
+For more details, please contact me directly or visit [my portfolio](https://habtish-portfolio.netlify.app).
 
 ---
 
